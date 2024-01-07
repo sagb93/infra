@@ -1,0 +1,13 @@
+version: '2'
+services:
+  postgres:
+    container_name: postgres_dev
+    image: 'postgres:latest'
+    restart: always
+    volumes:
+      - './postgres_data:/var/lib/postgresql/data'
+    environment:
+      - POSTGRES_PASSWORD=prueba
+      - POSTGRES_DB=origen_deportivo
+    ports:
+      - '5431:5432'
