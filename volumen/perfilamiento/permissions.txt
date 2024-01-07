@@ -1,0 +1,11 @@
+name|descripcion
+PERMISSION_01|Permiso numero 01
+PERMISSION_02|Permiso numero 02
+PERMISSION_03|Permiso numero 03
+PERMISSION_04|Permiso numero 04
+PERMISSION_05|Permiso numero 05
+PERMISSION_06|Permiso numero 06
+PERMISSION_07|Permiso numero 07
+PERMISSION_08|Permiso numero 08
+PERMISSION_09|Permiso numero 09
+PERMISSION_10|Permiso numero 10
