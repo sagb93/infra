@@ -1,0 +1,6 @@
+label|name|descripcion
+Administrador|ROLE_ADMIN|Soy un administrador
+Delegado|ROLE_DELEGATE|Soy un delegado
+Arbitro|ROLE_OFFICIAL|Soy un arbitro
+Entrenador|ROLE_MANAGER|Soy un entrenador
+Jugador|ROLE_ATHLETE|Soy un jugador
